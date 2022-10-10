@@ -1,0 +1,9 @@
+SEO en mi sitio web
+
+*Acomodé los titulos de mis páginas.
+*Aplique en cada HTML las etiquetas meta: con la descripción presisa y corta sobre el html, y en las 
+keywords utilicé siempre las mismas, 
+relacionadas al servicio que ofrezco. 
+
+
+

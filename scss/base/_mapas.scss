@@ -1,0 +1,17 @@
+/*boton*/
+
+$botonamarillo: (
+    bg-botonamarillo: $amarillo,
+    color-botonamarillo: black,
+    border-radius: 5px,
+    border-botonamarillo: 2px solid transparent,
+    padding-botonamarillo: 5px 15px,
+
+);
+
+$botonamarillohover: (
+    bg-botonamarillohover: transparent,
+    color-botonamarillohover: $amarillo,
+    border-botonamarillohover: 2px solid $amarillo,
+);
+
